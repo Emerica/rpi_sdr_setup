@@ -3,11 +3,9 @@
 How to use:
 
 
-Boot your raspberry pi to the shell or the desktop. 
+Boot your raspberry pi to the shell or the desktop, connect it to the internet
 If using  the desktop, open a terminal window from the applications menu,
 
-
-You must have git installed, connect to the internet and
 copy&paste/type the following into the terminal and hit enter:
 -------------------------
 
